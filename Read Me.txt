@@ -1,0 +1,3 @@
+in order to run the web app we need active internet connection. 
+once connected to the internet, open anaconda command prompt
+navigate to the directory that contains the app.py(web-app) and run using "pyhton app.py" without quotes.
